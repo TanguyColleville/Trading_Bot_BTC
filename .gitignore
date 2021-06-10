@@ -2,3 +2,5 @@
 notebook/.ipynb_checkpoints
 .DS_Store
 notebook/__pycache__
+/docs
+/bitcoin.pptx
