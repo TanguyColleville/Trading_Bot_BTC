@@ -6,7 +6,7 @@
 ## Auteurs 
 * Matthieu Briet : matthieu.briet@student-cs.fr
 * Clément Boulay : clement.boulay@student-cs.fr
-* Mohsine Zireg : moshine?zireg@student-cs.fr
+* Mohsine Zireg : moshine.zireg@student-cs.fr
 * Tanguy Colleville : tanguy.colleville@student-cs.fr
 * Wassim Behjal : wassim.behjal@student-cs.fr 
 
@@ -18,7 +18,6 @@
   - [Architecture et vue d'ensemble](#architecture-et-vue-densemble)
   - [Prise en main](#prise-en-main)
     - [Instruction pour installation](#instruction-pour-installation)
-    - [Utilisation](#utilisation)
   - [Conclusion](#conclusion)
 
 ## Introduction & Description du projet
@@ -61,9 +60,6 @@ Activer l’environnement :
 * si Windows :
         cd [NOM VENV] puis Scripts\Activate.bat
 En demeurant dans [NOM VENV] taper pip install -r requirements.txt
-
-### Utilisation 
-
 
 ## Conclusion 
 Pour conclure, nous avons pris du plaisir à participer à ce projet. L'enjeux de la prédiction de time series est crucial, aussi bien dans le domaine de la finance que pour de la prédiction de charge de consommation en éléctricité. La particularité ici était la cryptomonnaie (BTC) qui présente des comportements très spécifiques mais également le nombre de données. 
