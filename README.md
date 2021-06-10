@@ -39,6 +39,24 @@ Le but du projet est d'utiliser nos connaissances afin de comparer les prédicti
 
 ## Architecture et vue d'ensemble
 ```
+───chart
+├───data
+├───docs
+├───models
+│   ├───ANN
+│   │   ├───assets
+│   │   └───variables
+│   ├───LSTM
+│   │   ├───assets
+│   │   └───variables
+│   └───RNN_CNN
+│       ├───assets
+│       └───variables
+└───notebook
+    └───__pycache__
+    └───case_study_rnn_groupe_7.ipynb
+    └───final_notebook_arimax_groupe7.ipynb
+    └───helper_functions.py
 
 ```
 
