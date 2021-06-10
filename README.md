@@ -22,6 +22,9 @@
   - [Conclusion](#conclusion)
 
 ## Introduction & Description du projet
+Vous avez commencé à travailler dans une institution financière. Votre manager Mark est intéressé à investir et à échanger Bitcoin pour diversifier son portefeuille. Il s'est donc tourné vers vous pour développer un bot de trading crypto.
+Un crypto trading bot est un programme informatique avec un modèle prédictif sous-jacent qui génère automatiquement un prix quotidien prévu pour les 30 prochains jours en fonction de l'historique du prix du marché Bitcoin et des variables Blockchain.
+Votre mission est de former un modèle prédictif précis avec l'erreur quadratique moyenne (RMSE) la plus faible. Mark est un gars très technique, il aime comprendre tous les détails techniques et aimerait que vous compariez les performances des modèles classiques et des modèles basés sur les réseaux neuronaux.
 Le but du projet est d'utiliser nos connaissances afin de comparer les prédictions du cours du BTC sur 30 jours avec des modèles classiques, à savoir ARIMA ARIMAX etc avec des modèles plus complexes faisant appel au deep learning. 
 
 ## Liens utiles 
