@@ -6,9 +6,7 @@
 ## Auteurs 
 * Matthieu Briet : matthieu.briet@student-cs.fr
 * Clément Boulay : clement.boulay@student-cs.fr
-* Mohsine Zireg : moshine.zireg@student-cs.fr
 * Tanguy Colleville : tanguy.colleville@student-cs.fr
-* Wassim Behjal : wassim.behjal@student-cs.fr 
 
 ## Sommaire
   - [Auteurs :](#auteurs-)
