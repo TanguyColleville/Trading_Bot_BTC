@@ -1,6 +1,7 @@
-# Projet MDS Trading bot on BTC : école CentraleSupelec 2020-2021 
+# Projet MDS Trading bot on BTC  with Capgemini Invent: école CentraleSupelec 2020-2021 
 
 ![CentraleSupelec Logo](https://www.centralesupelec.fr/sites/all/themes/cs_theme/medias/common/images/intro/logo_nouveau.jpg)
+![Capgemini Invent Logo](https://upload.wikimedia.org/wikipedia/commons/7/7e/Invent_Logo_2COL_RGB.png)
 
 ## Auteurs 
 * Matthieu Briet : matthieu.briet@student-cs.fr
